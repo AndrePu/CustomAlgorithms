@@ -1,0 +1,17 @@
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.Tests.deps.json
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.Tests.runtimeconfig.json
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.Tests.runtimeconfig.dev.json
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.Tests.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.Tests.pdb
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\bin\Debug\netcoreapp2.2\CustomAlgorithms.pdb
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.csprojAssemblyReference.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.csproj.CoreCompileInputs.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.AssemblyInfoInputs.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.AssemblyInfo.cs
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.csproj.CopyComplete
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms.Tests\obj\Debug\netcoreapp2.2\CustomAlgorithms.Tests.pdb

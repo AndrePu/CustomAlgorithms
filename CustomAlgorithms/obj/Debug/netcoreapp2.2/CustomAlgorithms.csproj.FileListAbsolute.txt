@@ -1,0 +1,9 @@
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\bin\Debug\netcoreapp2.2\CustomAlgorithms.deps.json
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\bin\Debug\netcoreapp2.2\CustomAlgorithms.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\bin\Debug\netcoreapp2.2\CustomAlgorithms.pdb
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.csprojAssemblyReference.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.csproj.CoreCompileInputs.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.AssemblyInfoInputs.cache
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.AssemblyInfo.cs
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.dll
+X:\University\Programming\Kuzenkov\Fifth semester\LW 3\CustomAlgorithms\obj\Debug\netcoreapp2.2\CustomAlgorithms.pdb
